@@ -17,3 +17,8 @@ https://github.com/luizsoliveira/jetstarter-secure-api-postgrest
 
 https://learn.microsoft.com/pt-br/azure/data-api-builder/overview
 
+## 3) Json Server
+
+https://dev.to/zeotoni/como-fazer-deploy-de-uma-api-com-json-server-321g#chapter-5
+
+
