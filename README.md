@@ -21,4 +21,9 @@ https://learn.microsoft.com/pt-br/azure/data-api-builder/overview
 
 https://dev.to/zeotoni/como-fazer-deploy-de-uma-api-com-json-server-321g#chapter-5
 
+## Vercel
+
+https://vercel.com/docs/cli
+
+
 
