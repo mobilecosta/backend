@@ -25,5 +25,7 @@ https://dev.to/zeotoni/como-fazer-deploy-de-uma-api-com-json-server-321g#chapter
 
 https://vercel.com/docs/cli
 
+## Projetos
+https://github.com/HTTPauloGoncalves/EncrypCoin
 
 
